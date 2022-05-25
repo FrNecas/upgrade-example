@@ -1,3 +1,4 @@
 summary: Performs a "system upgrade"
 test: ./test.sh
 framework: beakerlib
+tag: [upgrade]
