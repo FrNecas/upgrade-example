@@ -1,0 +1,9 @@
+summary: Basic upgrade path
+discover:
+    how: fmf
+    filter: "tag:fedora"
+environment:
+    SOURCE: 35
+    TARGET: 36
+execute:
+    how: tmt
